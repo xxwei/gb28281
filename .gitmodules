@@ -1,0 +1,6 @@
+[submodule "libosip2.5"]
+	path = libosip2.5
+	url = https://github.com/xxwei/libosip2.5.git
+[submodule "libexosip2.5"]
+	path = libexosip2.5
+	url = https://github.com/xxwei/libexosip2.5.git
