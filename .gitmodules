@@ -4,3 +4,15 @@
 [submodule "libexosip2.5"]
 	path = libexosip2.5
 	url = https://github.com/xxwei/libexosip2.5.git
+[submodule "JThread"]
+	path = JThread
+	url = https://github.com/j0r1/JThread.git
+[submodule "JRTPLIB"]
+	path = JRTPLIB
+	url = https://github.com/j0r1/JRTPLIB.git
+[submodule "mongoose"]
+	path = mongoose
+	url = https://github.com/cesanta/mongoose.git
+[submodule "tinyxml2"]
+	path = tinyxml2
+	url = https://github.com/leethomason/tinyxml2.git
