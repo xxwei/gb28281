@@ -19,7 +19,7 @@ include_directories(${PROJECT_SOURCE_DIR}/include)
 link_directories(${PROJECT_BINARY_DIR}/lib)
 
 #添加库文件
-link_libraries("libeXosip2.so" "libosip2.so" "libosipparser2.so")
+link_libraries("libeXosip2.so" "libosip2.so" "libosipparser2.so" "libpthread.so")
 
 
 #c++11
